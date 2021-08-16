@@ -1,8 +1,8 @@
 ### Olá! 👋, meu nome é Fernando
-#### Sou estudante de desenvolvimento web na Trybe.
+#### Sou estudante de desenvolvimento web fullstack na Trybe.
 
 
-Estudante de desenvolvimento web fullstack na Trybe. Fundamentos web e front-end completos. Atualmente estudando back-end. Futuro desenvolvedor de Games.
+Fundamentos web e front-end completos. Atualmente estudando back-end. Futuro desenvolvedor de Games.
 
 Skills: <img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png' alt='javascript' height='30'>  <img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png' alt='javascript' height='30'>  <img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png' alt='javascript' height='30'>  <img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png' alt='javascript' height='30'>
 
