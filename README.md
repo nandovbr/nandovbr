@@ -1,5 +1,5 @@
 ### Olá! 👋, meu nome é Fernando
-#### Sou estudante de desenvolvimento web fullstack na Trybe.
+#### Sou estudante de desenvolvimento web.
 
 
 Fundamentos web e front-end completos. Atualmente estudando back-end. Aplicando front e back em projetos individuais para aprendizado.
