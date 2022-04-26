@@ -1,5 +1,5 @@
 ### Olá! 👋, meu nome é Fernando
-#### Sou desenvolvedor front end Jr.
+#### Sou desenvolvedor Jr.
 
 
 Busco uma oportunidade em fazer parte de uma equipe de trabalho em uma empresa, onde minhas habilidades agregem valor, e isso me traga desafios e novos aprendizados.
