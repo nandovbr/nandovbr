@@ -2,7 +2,9 @@
 #### Sou desenvolvedor Jr.
 
 
-Busco uma oportunidade em fazer parte de uma equipe de trabalho em uma empresa, onde minhas habilidades agregem valor, e isso me traga desafios e novos aprendizados.
+No final de 2020 iniciei minha jornada de transição de carreira do marketing e administração para a tecnologia.
+Despois de muita pesquisa decidi estudar desenvolvimento web full stack participando do processo seletivo da Trybe que foi bem sucedido. Meus estudos iniciaram-se em março de 2021 e desde então me dedico bastante e sempre que posso ajudo alguns colegas nos desenvolvimentos com intuito de aprender mais e também crescermos juntos apoiando uns aos outros.
+Estou ansioso e animado para iniciar minha carreira em Tecnologia!
 
 
 Rede Social
