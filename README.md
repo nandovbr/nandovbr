@@ -3,10 +3,9 @@
 
 
 No final de 2020 iniciei minha jornada de transição de carreira do marketing e administração para a tecnologia.
-Despois de muita pesquisa decidi estudar desenvolvimento web full stack participando do processo seletivo da Trybe que foi bem sucedido. Meus estudos iniciaram-se em março de 2021 e desde então me dedico bastante. Ingressei recentemente no DiversiData Tech PAN na plataforma IGTI através de processo seletivo do Banco Pan para estudar Big Data e Análise de dados.
+Despois de muita pesquisa decidi estudar desenvolvimento web full stack participando do processo seletivo da Trybe que foi bem sucedido. Meus estudos iniciaram-se em março de 2021 e desde então me dedico bastante. Concluí recentemente um bootcamp onde estudei Big Data e Análise de dados.
 
-Sempre que posso ajudo alguns colegas nos desenvolvimentos com intuito de aprender mais e também crescermos juntos apoiando uns aos outros.
-Estou ansioso e animado para iniciar minha carreira definitiva em Tecnologia!
+Estou animado para iniciar minha carreira definitiva em Tecnologia!
 
 
 Rede Social
