@@ -6,6 +6,7 @@ Sou estudante de Desenvolvimento Web Full Stack na Trybe e Universitário em Ci�
 Busco sempre entregar o meu melhor em todos os âmbitos da vida independente dos desafios com objetivo de contribuir um pouquinho na transformação do Mundo em um lugar melhor para todas as pessoas.
 
 Minhas competências:
+
 🔹 Javascript;
 🔹 HTML e CSS;
 🔹 React JS;
