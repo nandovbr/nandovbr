@@ -1,13 +1,30 @@
-### Olá! 👋, meu nome é Luiz Fernando
-#### Sou discente Backend, Big Data e Análise de Dados.
+### Olá! 👋, meu nome é Luiz Fernando!
 
 
-Em Novembro de 2020 iniciei minha jornada de transição de carreira do marketing e administração para a tecnologia.
-Despois de muita pesquisa decidi estudar desenvolvimento web full stack participando do processo seletivo da Trybe que foi bem sucedido. Meus estudos iniciaram-se em Março de 2021 e desde então me dedico bastante. Recentemente concluí o Bootcamp DiversiData tech PAN onde estudei Big Data e Análise de dados na XP Educação. 😅
+Sou estudante de Desenvolvimento Web Full Stack na Trybe e Universitário em Ciência de Dados na UNIVESP á procura de uma oportunidade profissional que faça sentido com meus valores e ideais.
 
-Continuo estudando a área de Dados, só que agora na UNIVESP o curso Bacharelado em Ciência de Dados e aplicando os aprendizados em projetos próprios e sempre auxilio alguns colegas nos desenvolvimentos com intuito de aprender mais e também crescermos juntos apoiando uns aos outros. 😄
+Busco sempre entregar o meu melhor em todos os âmbitos da vida independente dos desafios com objetivo de contribuir um pouquinho na transformação do Mundo em um lugar melhor para todas as pessoas.
 
-Estou ansioso e animado para iniciar minha carreira na Tecnologia! 🤩
+Minhas competências:
+🔹 Javascript;
+🔹 HTML e CSS;
+🔹 React JS;
+🔹 Node JS;
+🔹 API REST com Express
+🔹 Arquitetura MSC;
+🔹 MySQL;
+🔹 MongoDB;
+🔹 Análise de dados;
+🔹 Visualização de dados;
+🔹 Scrum;
+🔹 Docker;
+🔹 Git e GitHub;
+
+🔶 Repositório: https://github.com/nandovbr
+
+Posso ajudar em alguma coisa?
+Contato:
+🔸 Email: tech.luizfernando@gmail.com
 
 
 Rede Social
