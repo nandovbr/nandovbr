@@ -7,19 +7,19 @@ Busco sempre entregar o meu melhor em todos os âmbitos da vida independente dos
 
 Minhas competências:
 
-🔹 Javascript;
-🔹 HTML e CSS;
-🔹 React JS;
-🔹 Node JS;
+🔹 Javascript
+🔹 HTML e CSS
+🔹 React JS
+🔹 Node JS
 🔹 API REST com Express
-🔹 Arquitetura MSC;
-🔹 MySQL;
-🔹 MongoDB;
-🔹 Análise de dados;
-🔹 Visualização de dados;
-🔹 Scrum;
-🔹 Docker;
-🔹 Git e GitHub;
+🔹 Arquitetura MSC
+🔹 MySQL
+🔹 MongoDB
+🔹 Análise de dados
+🔹 Visualização de dados
+🔹 Scrum
+🔹 Docker
+🔹 Git e GitHub
 
 🔶 Repositório: https://github.com/nandovbr
 
