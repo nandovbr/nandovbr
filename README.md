@@ -1,29 +1,27 @@
 ### Olá! 👋, meu nome é Luiz Fernando!
 
 
-Sou estudante de Desenvolvimento Web Full Stack na Trybe e Universitário em Ciência de Dados na UNIVESP á procura de uma oportunidade profissional que faça sentido com meus valores e ideais.
+Sou estudante de Desenvolvimento Web Full Stack e Universitário em Ciência de Dados á procura de uma oportunidade profissional que faça sentido com minha cultura, onde eu possa aplicar meus conhecimentos e aprender ao máximo.
 
-Busco sempre entregar o meu melhor em todos os âmbitos da vida independente dos desafios com objetivo de contribuir um pouquinho na transformação do Mundo em um lugar melhor para todas as pessoas.
+Busco sempre entregar o meu melhor em todos os âmbitos da vida independente dos desafios com objetivo de melhorar cada dia mais como pessoa.
 
 Minhas competências:
-
-🔹 Javascript
-🔹 HTML e CSS
-🔹 React JS
-🔹 Node JS
-🔹 API REST com Express
-🔹 Arquitetura MSC
-🔹 MySQL
-🔹 MongoDB
-🔹 Análise de dados
-🔹 Visualização de dados
-🔹 Scrum
-🔹 Docker
-🔹 Git e GitHub
+🔹 Javascript;
+🔹 Node JS;
+🔹 API REST com Express;
+🔹 Arquitetura MSC;
+🔹 MySQL;
+🔹 HTML e CSS;
+🔹 React JS;
+🔹 MongoDB;
+🔹 Análise de dados;
+🔹 Visualização de dados;
+🔹 Scrum;
+🔹 Docker;
+🔹 Git e GitHub;
 
 🔶 Repositório: https://github.com/nandovbr
 
-Posso ajudar em alguma coisa?
 Contato:
 🔸 Email: tech.luizfernando@gmail.com
 
