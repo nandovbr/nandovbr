@@ -20,7 +20,6 @@ Minhas competências:
 🔹 Docker;
 🔹 Git e GitHub;
 
-🔶 Repositório: https://github.com/nandovbr
 
 Contato:
 🔸 Email: tech.luizfernando@gmail.com
