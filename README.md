@@ -11,8 +11,8 @@ Minhas competências:
 🔹 API REST com Express;
 🔹 Arquitetura MSC;
 🔹 MySQL;
-🔹 HTML e CSS;
-🔹 React JS;
+🔹 POO;
+🔹 Typescript;
 🔹 MongoDB;
 🔹 Análise de dados;
 🔹 Visualização de dados;
@@ -20,6 +20,7 @@ Minhas competências:
 🔹 Docker;
 🔹 Git e GitHub;
 
+🔶 Repositório: https://github.com/nandovbr
 
 Contato:
 🔸 Email: tech.luizfernando@gmail.com
