@@ -6,6 +6,7 @@ Sou estudante de Desenvolvimento Web Full Stack e Universitário em Ciência de 
 Busco sempre entregar o meu melhor em todos os âmbitos da vida independente dos desafios com objetivo de melhorar cada dia mais como pessoa.
 
 Minhas competências:
+🔹 Python;
 🔹 Javascript;
 🔹 Node JS;
 🔹 API REST com Express;
