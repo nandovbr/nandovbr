@@ -1,7 +1,7 @@
 ### Olá! 👋, meu nome é Luiz Fernando!
 
 
-Sou estudante de Desenvolvimento Web Full Stack e Universitário em Ciência de Dados á procura de uma oportunidade profissional que faça sentido com minha cultura, onde eu possa aplicar meus conhecimentos e aprender ao máximo.
+Sou estudante de Desenvolvimento Web Full Stack e Universitário em Ciência de Dados á procura de uma oportunidade profissional onde eu possa aplicar meus conhecimentos e aprender ao máximo.
 
 Busco sempre entregar o meu melhor em todos os âmbitos da vida independente dos desafios com objetivo de melhorar cada dia mais como pessoa.
 
