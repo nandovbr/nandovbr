@@ -1,16 +1,16 @@
 ### Olá! 👋, meu nome é Luiz Fernando!
 
-
 Sou estudante de Desenvolvimento Web Full Stack e Universitário em Ciência de Dados á procura de uma oportunidade profissional onde eu possa aplicar meus conhecimentos e aprender ao máximo.
 
 Busco sempre entregar o meu melhor em todos os âmbitos da vida independente dos desafios com objetivo de melhorar cada dia mais como pessoa.
 
 Minhas competências:
-🔹 Python;
 🔹 Javascript;
+🔹 HTML e CSS;
+🔹 React Js;
 🔹 Node JS;
 🔹 API REST com Express;
-🔹 Arquitetura MSC;
+🔹 Arquitetura MSC de Back end;
 🔹 MySQL;
 🔹 POO;
 🔹 Typescript;
@@ -21,9 +21,10 @@ Minhas competências:
 🔹 Docker;
 🔹 Git e GitHub;
 
+🔶 Repositório: https://github.com/nandovbr
 
 Contato:
-🔸 Email: tech.luizfernando@gmail.com
+🔸 Email: tech.luizfernando@gmail.comSou
 
 
 Rede Social
