@@ -2,7 +2,7 @@
 
 Sou Desenvolvedor Web, Universitário em Ciência de Dados atualmente trabalhando em um projeto de Desenvolvimento Web Fullstack que consistem em arquitetar e desenvolver front e back end do novo site da empresa com sistema de login para gerenciamento de dados.
 
-Busco sempre entregar o meu melhor em todos os âmbitos da vida independente dos desafios com objetivo de melhorar cada dia mais como pessoa.
+Busco sempre entregar o meu melhor em todos os âmbitos da vida independente dos desafios com objetivo de melhorar cada dia pessoal e profissionalmente.
 
 Minhas competências:
 🔹 Javascript;
