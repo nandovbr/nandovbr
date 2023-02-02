@@ -1,6 +1,10 @@
 ### Olá! 👋, meu nome é Luiz Fernando!
 
-Sou Desenvolvedor Web, Universitário em Ciência de Dados atualmente trabalhando em um projeto de Desenvolvimento Web que consistem em arquitetar e desenvolver o site do cantor e compositor Adriano Jeronimo com um player de músicas de suas autorias.
+Sou Desenvolvedor Web, Universitário em Ciência de Dados atualmente trabalhando em dois projetos:
+
+1️⃣. Desenvolvimento Web que consistem em arquitetar e desenvolver o site do cantor e compositor Adriano Jeronimo com um player de músicas de suas autorias e outras informações. Após manter o funcionamento com manutenção e atualizações.
+
+2️⃣. Empresa do setor financeiro chamada Almeida Dias Soluções Financeiras. Manter o funcionamento do site atual com atualizações e manutenções e auxiliar no design de imagens para uso comercial.
 
 Busco sempre entregar o meu melhor em todos os âmbitos da vida independente dos desafios com objetivo de melhorar cada dia pessoal e profissionalmente.
 
