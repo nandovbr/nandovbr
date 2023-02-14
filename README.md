@@ -2,7 +2,7 @@
 
 Sou Desenvolvedor Web, Universitário em Ciência de Dados atualmente trabalhando em dois projetos:
 
-1️⃣. Desenvolvimento Web que consistem em arquitetar e desenvolver o site do cantor e compositor Adriano Jeronimo com um player de músicas de suas autorias e outras informações. Após manter o funcionamento com manutenção e atualizações.
+1️⃣. Desenvolvimento Web que consistem em arquitetar e desenvolver o site do cantor e compositor Adriano Jeronimo com um player de músicas de suas autorias e outras informações. Após o desenvolvimento, manter o funcionamento com manutenção e atualizações.
 
 2️⃣. Empresa do setor financeiro chamada Almeida Dias Soluções Financeiras. Manter o funcionamento do site atual com atualizações e manutenções.
 
