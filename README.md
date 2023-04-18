@@ -1,6 +1,6 @@
 ### Olá! 👋, meu nome é Luiz Fernando!
 
-Sou Desenvolvedor Web, Universitário em Ciência de Dados atualmente trabalhando por conta própria como Desenvolvedor Web Fullstack.
+Sou Desenvolvedor Web, Universitário em Ciência de Dados atualmente sou autônomo como Desenvolvedor Web Fullstack na Nandeve (https://nandeve.com.br/).
 
 Durante minha transição de carreira, aprimorei minhas habilidades comportamentais e sociais junto das hard skills de Desenvolvimento Web.
 Busco sempre entregar o meu melhor em todos os âmbitos da vida independente dos desafios com objetivo de melhorar ainda mais a cada dia pessoalmente e profissionalmente.
