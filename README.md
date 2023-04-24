@@ -1,6 +1,8 @@
 ### Olá! 👋, meu nome é Luiz Fernando!
 
-Sou Desenvolvedor Web, Universitário em Ciência de Dados atualmente sou autônomo como Desenvolvedor Web Fullstack na Nandeve (https://nandeve.com.br/).
+Sou autônomo como Desenvolvedor Web Fullstack, estudante de Java e Ciência de Dados.
+Sou uma pessoa em investigação de TEA (atualmente tratamento de TCC com diagnóstico de TDAH).
+Possuo habilidades sociais e comportamentais bem desenvolvidas. Como pontos principais: Boa comunicação, empatia, resiliência e cultura de feedbacks.
 
 Durante minha transição de carreira, aprimorei minhas habilidades comportamentais e sociais junto das hard skills de Desenvolvimento Web.
 Busco sempre entregar o meu melhor em todos os âmbitos da vida independente dos desafios com objetivo de melhorar ainda mais a cada dia pessoalmente e profissionalmente.
