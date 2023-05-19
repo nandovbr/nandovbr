@@ -1,6 +1,6 @@
 ### Olá! 👋, meu nome é Luiz Fernando!
 
-Sou estudante de Desenvolvedor Web Fullstack na Trybe e universitário de Bacharel em Ciência de Dados e estou em busca de uma oportunidade como Desenvolvedor Web Júnior.
+Sou Desenvolvedor Web Júnior formado na Trybe e universitário Bacharel em Ciência de Dados e estou em busca de uma oportunidade como Desenvolvedor Júnior.
 Possuo habilidades sociais e comportamentais bem desenvolvidas. Como pontos principais: Boa comunicação, empatia, resiliência e cultura de feedbacks.
 
 Minhas competências:
