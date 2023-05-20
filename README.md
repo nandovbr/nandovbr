@@ -1,7 +1,7 @@
 ### Olá! 👋, meu nome é Luiz Fernando!
 
-Sou Desenvolvedor Web Júnior formado na Trybe e universitário Bacharel em Ciência de Dados e estou em busca de uma oportunidade como Desenvolvedor Júnior.
-Possuo habilidades sociais e comportamentais bem desenvolvidas. Como pontos principais: Boa comunicação, empatia, resiliência e cultura de feedbacks.
+Sou Desenvolvedor Web Júnior formado na Trybe, atualmente na faculdade cursando Bacharel em Ciência de Dados e estudando Java.
+Estou em busca de uma oportunidade como Desenvolvedor Júnior ansioso para por em prática tudo o que aprendi e aprender ainda mais exercendo a função.
 
 Minhas competências:
 🔹 Javascript;
