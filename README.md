@@ -1,28 +1,7 @@
 ### Olá! 👋, meu nome é Luiz Fernando!
 
-Sou Desenvolvedor Web Júnior formado na Trybe, atualmente na faculdade cursando Bacharel em Ciência de Dados e estudando Java.
-Estou em busca de uma oportunidade como Desenvolvedor Júnior ansioso para por em prática tudo o que aprendi e aprender ainda mais exercendo a função.
-
-Minhas competências:
-🔹 Javascript;
-🔹 Python;
-🔹 Java;
-🔹 HTML e CSS;
-🔹 React Js;
-🔹 Node JS;
-🔹 API REST com Express;
-🔹 Arquitetura MSC de Back end;
-🔹 MySQL;
-🔹 POO;
-🔹 Typescript;
-🔹 MongoDB;
-🔹 Análise de dados;
-🔹 Visualização de dados;
-🔹 Scrum;
-🔹 Docker;
-🔹 Git e GitHub;
-
-🔶 Portifólio Frontend: https://nandeve.com.br/
+Sou Desenvolvedor Web Júnior formado na Trybe, atualmente na faculdade cursando Bacharel em Ciência de Dados e estudando Python para Análise e Ciência de Dados.
+Estou em busca de uma oportunidade como Desenvolvedor Júnior. Estou ansioso para por em prática tudo o que aprendi e aprender ainda mais exercendo a função.
 
 Contato:
 🔸 Email: tech.luizfernando@gmail.com
