@@ -1,7 +1,7 @@
 ### Olá! 👋, meu nome é Luiz Fernando!
 
 Sou Desenvolvedor Web Júnior formado na Trybe, atualmente na faculdade cursando Bacharel em Ciência de Dados e estudando Python para Análise e Ciência de Dados.
-Estou em busca de uma oportunidade como Desenvolvedor Júnior. Estou ansioso para por em prática tudo o que aprendi e aprender ainda mais exercendo a função.
+Estou em busca de uma oportunidade com objetivo de aprender ainda mais na prática e aplicar minhas habilidades desenvolvidas.
 
 Contato:
 🔸 Email: tech.luizfernando@gmail.com
