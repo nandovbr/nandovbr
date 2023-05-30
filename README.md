@@ -3,6 +3,20 @@
 Sou Desenvolvedor Web Júnior formado na Trybe, atualmente na faculdade cursando Bacharel em Ciência de Dados e estudando Python para Análise e Ciência de Dados.
 Estou em busca de uma oportunidade com objetivo de aprender ainda mais na prática e aplicar minhas habilidades desenvolvidas.
 
+Minhas competências:
+🔹Python;
+🔹ETL;
+🔹Aprendizado de Máquina;
+🔹MySQL;
+🔹Mongo DB;
+🔹Git e Github;
+🔹Scrum;
+🔹Docker;
+🔹Javascript;
+🔹Node JS;
+🔹HTML;
+🔹CSS;
+
 Contato:
 🔸 Email: tech.luizfernando@gmail.com
 
