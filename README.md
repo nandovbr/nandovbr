@@ -6,7 +6,7 @@ Além dos conhecimentos técnicos, também aprendi metodologias ágeis e desenvo
 Atualmente estou na faculdade cursando Bacharel em Ciência de Dados e estudando Python para Análise e Ciência de Dados.
 Estou em busca de uma oportunidade na área de Dados com objetivo de aprender ainda mais na prática e aplicar minhas habilidades desenvolvidas.
 
-Contatos:
+<p>Contatos:</p>
 🔸 Email: tech.luizfernando@gmail.com
 
 🔸 Link para o meu LinkedIn: https://www.linkedin.com/in/nandorodrigues/
