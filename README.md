@@ -9,7 +9,5 @@ Estou em busca de uma oportunidade na área de Dados com objetivo de aprender ai
 Contato:
 🔸 Email: tech.luizfernando@gmail.com
 
-<a href=' https://www.linkedin.com/in/nandorodrigues/'>
   <p>Meu perfil no LinkedIn: </p>
-</a>
 [<img src='https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/nandorodrigues/)
